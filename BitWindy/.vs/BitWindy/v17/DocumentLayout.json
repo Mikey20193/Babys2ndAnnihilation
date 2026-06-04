@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BitWindy\\BitWindy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C36A315-C30D-3821-86CC-849A2A5C5A11}|Intermediate\\ProjectFiles\\BitWindy.vcxproj|D:\\BitWindy\\BitWindy\\Source\\BitWindy\\InviteListenerActor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C36A315-C30D-3821-86CC-849A2A5C5A11}|Intermediate\\ProjectFiles\\BitWindy.vcxproj|solutionrelative:Source\\BitWindy\\InviteListenerActor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C36A315-C30D-3821-86CC-849A2A5C5A11}|Intermediate\\ProjectFiles\\BitWindy.vcxproj|D:\\BitWindy\\BitWindy\\Source\\BitWindy\\InviteListenerActor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C36A315-C30D-3821-86CC-849A2A5C5A11}|Intermediate\\ProjectFiles\\BitWindy.vcxproj|solutionrelative:Source\\BitWindy\\InviteListenerActor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C36A315-C30D-3821-86CC-849A2A5C5A11}|Intermediate\\ProjectFiles\\BitWindy.vcxproj|D:\\BitWindy\\BitWindy\\Source\\BitWindy\\UInviteListenerComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C36A315-C30D-3821-86CC-849A2A5C5A11}|Intermediate\\ProjectFiles\\BitWindy.vcxproj|solutionrelative:Source\\BitWindy\\UInviteListenerComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C36A315-C30D-3821-86CC-849A2A5C5A11}|Intermediate\\ProjectFiles\\BitWindy.vcxproj|D:\\BitWindy\\BitWindy\\Source\\BitWindy\\UInviteListenerComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C36A315-C30D-3821-86CC-849A2A5C5A11}|Intermediate\\ProjectFiles\\BitWindy.vcxproj|solutionrelative:Source\\BitWindy\\UInviteListenerComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C36A315-C30D-3821-86CC-849A2A5C5A11}|Intermediate\\ProjectFiles\\BitWindy.vcxproj|D:\\BitWindy\\BitWindy\\Source\\BitWindy\\InviteListener.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C36A315-C30D-3821-86CC-849A2A5C5A11}|Intermediate\\ProjectFiles\\BitWindy.vcxproj|solutionrelative:Source\\BitWindy\\InviteListener.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C36A315-C30D-3821-86CC-849A2A5C5A11}|Intermediate\\ProjectFiles\\BitWindy.vcxproj|D:\\BitWindy\\BitWindy\\Source\\BitWindy\\InviteListener.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C36A315-C30D-3821-86CC-849A2A5C5A11}|Intermediate\\ProjectFiles\\BitWindy.vcxproj|solutionrelative:Source\\BitWindy\\InviteListener.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C36A315-C30D-3821-86CC-849A2A5C5A11}|Intermediate\\ProjectFiles\\BitWindy.vcxproj|D:\\BitWindy\\BitWindy\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C36A315-C30D-3821-86CC-849A2A5C5A11}|Intermediate\\ProjectFiles\\BitWindy.vcxproj|solutionrelative:Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C36A315-C30D-3821-86CC-849A2A5C5A11}|Intermediate\\ProjectFiles\\BitWindy.vcxproj|D:\\BitWindy\\BitWindy\\Plugins\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C36A315-C30D-3821-86CC-849A2A5C5A11}|Intermediate\\ProjectFiles\\BitWindy.vcxproj|solutionrelative:Plugins\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C36A315-C30D-3821-86CC-849A2A5C5A11}|Intermediate\\ProjectFiles\\BitWindy.vcxproj|D:\\BitWindy\\BitWindy\\Source\\BitWindy.Target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C36A315-C30D-3821-86CC-849A2A5C5A11}|Intermediate\\ProjectFiles\\BitWindy.vcxproj|solutionrelative:Source\\BitWindy.Target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C36A315-C30D-3821-86CC-849A2A5C5A11}|Intermediate\\ProjectFiles\\BitWindy.vcxproj|D:\\BitWindy\\BitWindy\\Source\\BitWindy\\SteamFriendsBlueprintLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C36A315-C30D-3821-86CC-849A2A5C5A11}|Intermediate\\ProjectFiles\\BitWindy.vcxproj|solutionrelative:Source\\BitWindy\\SteamFriendsBlueprintLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C36A315-C30D-3821-86CC-849A2A5C5A11}|Intermediate\\ProjectFiles\\BitWindy.vcxproj|D:\\BitWindy\\BitWindy\\Source\\BitWindy\\BitWindy.Build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C36A315-C30D-3821-86CC-849A2A5C5A11}|Intermediate\\ProjectFiles\\BitWindy.vcxproj|solutionrelative:Source\\BitWindy\\BitWindy.Build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C36A315-C30D-3821-86CC-849A2A5C5A11}|Intermediate\\ProjectFiles\\BitWindy.vcxproj|D:\\BitWindy\\BitWindy\\Source\\BitWindy\\SteamFriendsBlueprintLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C36A315-C30D-3821-86CC-849A2A5C5A11}|Intermediate\\ProjectFiles\\BitWindy.vcxproj|solutionrelative:Source\\BitWindy\\SteamFriendsBlueprintLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InviteListenerActor.cpp",
+              "DocumentMoniker": "D:\\BitWindy\\BitWindy\\Source\\BitWindy\\InviteListenerActor.cpp",
+              "RelativeDocumentMoniker": "Source\\BitWindy\\InviteListenerActor.cpp",
+              "ToolTip": "D:\\BitWindy\\BitWindy\\Source\\BitWindy\\InviteListenerActor.cpp",
+              "RelativeToolTip": "Source\\BitWindy\\InviteListenerActor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-01T21:46:24.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InviteListenerActor.h",
+              "DocumentMoniker": "D:\\BitWindy\\BitWindy\\Source\\BitWindy\\InviteListenerActor.h",
+              "RelativeDocumentMoniker": "Source\\BitWindy\\InviteListenerActor.h",
+              "ToolTip": "D:\\BitWindy\\BitWindy\\Source\\BitWindy\\InviteListenerActor.h",
+              "RelativeToolTip": "Source\\BitWindy\\InviteListenerActor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-01T21:46:24.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UInviteListenerComponent.cpp",
+              "DocumentMoniker": "D:\\BitWindy\\BitWindy\\Source\\BitWindy\\UInviteListenerComponent.cpp",
+              "RelativeDocumentMoniker": "Source\\BitWindy\\UInviteListenerComponent.cpp",
+              "ToolTip": "D:\\BitWindy\\BitWindy\\Source\\BitWindy\\UInviteListenerComponent.cpp",
+              "RelativeToolTip": "Source\\BitWindy\\UInviteListenerComponent.cpp",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-01T21:36:51.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UInviteListenerComponent.h",
+              "DocumentMoniker": "D:\\BitWindy\\BitWindy\\Source\\BitWindy\\UInviteListenerComponent.h",
+              "RelativeDocumentMoniker": "Source\\BitWindy\\UInviteListenerComponent.h",
+              "ToolTip": "D:\\BitWindy\\BitWindy\\Source\\BitWindy\\UInviteListenerComponent.h",
+              "RelativeToolTip": "Source\\BitWindy\\UInviteListenerComponent.h",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-01T21:35:41.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdvancedSteamSessions.Build.cs",
+              "DocumentMoniker": "D:\\BitWindy\\BitWindy\\Plugins\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
+              "RelativeDocumentMoniker": "Plugins\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
+              "ToolTip": "D:\\BitWindy\\BitWindy\\Plugins\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
+              "RelativeToolTip": "Plugins\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T18:45:37.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdvancedSessions.Build.cs",
+              "DocumentMoniker": "D:\\BitWindy\\BitWindy\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+              "RelativeDocumentMoniker": "Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+              "ToolTip": "D:\\BitWindy\\BitWindy\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+              "RelativeToolTip": "Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T18:45:22.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InviteListener.cpp",
+              "DocumentMoniker": "D:\\BitWindy\\BitWindy\\Source\\BitWindy\\InviteListener.cpp",
+              "RelativeDocumentMoniker": "Source\\BitWindy\\InviteListener.cpp",
+              "ToolTip": "D:\\BitWindy\\BitWindy\\Source\\BitWindy\\InviteListener.cpp",
+              "RelativeToolTip": "Source\\BitWindy\\InviteListener.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwC8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-31T14:31:10.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InviteListener.h",
+              "DocumentMoniker": "D:\\BitWindy\\BitWindy\\Source\\BitWindy\\InviteListener.h",
+              "RelativeDocumentMoniker": "Source\\BitWindy\\InviteListener.h",
+              "ToolTip": "D:\\BitWindy\\BitWindy\\Source\\BitWindy\\InviteListener.h",
+              "RelativeToolTip": "Source\\BitWindy\\InviteListener.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-31T14:31:09.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BitWindy.Target.cs",
+              "DocumentMoniker": "D:\\BitWindy\\BitWindy\\Source\\BitWindy.Target.cs",
+              "RelativeDocumentMoniker": "Source\\BitWindy.Target.cs",
+              "ToolTip": "D:\\BitWindy\\BitWindy\\Source\\BitWindy.Target.cs",
+              "RelativeToolTip": "Source\\BitWindy.Target.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T17:53:10.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SteamFriendsBlueprintLibrary.cpp",
+              "DocumentMoniker": "D:\\BitWindy\\BitWindy\\Source\\BitWindy\\SteamFriendsBlueprintLibrary.cpp",
+              "RelativeDocumentMoniker": "Source\\BitWindy\\SteamFriendsBlueprintLibrary.cpp",
+              "ToolTip": "D:\\BitWindy\\BitWindy\\Source\\BitWindy\\SteamFriendsBlueprintLibrary.cpp",
+              "RelativeToolTip": "Source\\BitWindy\\SteamFriendsBlueprintLibrary.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-28T22:59:06.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BitWindy.Build.cs",
+              "DocumentMoniker": "D:\\BitWindy\\BitWindy\\Source\\BitWindy\\BitWindy.Build.cs",
+              "RelativeDocumentMoniker": "Source\\BitWindy\\BitWindy.Build.cs",
+              "ToolTip": "D:\\BitWindy\\BitWindy\\Source\\BitWindy\\BitWindy.Build.cs",
+              "RelativeToolTip": "Source\\BitWindy\\BitWindy.Build.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T20:34:22.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SteamFriendsBlueprintLibrary.h",
+              "DocumentMoniker": "D:\\BitWindy\\BitWindy\\Source\\BitWindy\\SteamFriendsBlueprintLibrary.h",
+              "RelativeDocumentMoniker": "Source\\BitWindy\\SteamFriendsBlueprintLibrary.h",
+              "ToolTip": "D:\\BitWindy\\BitWindy\\Source\\BitWindy\\SteamFriendsBlueprintLibrary.h",
+              "RelativeToolTip": "Source\\BitWindy\\SteamFriendsBlueprintLibrary.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-28T22:58:06.304Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
